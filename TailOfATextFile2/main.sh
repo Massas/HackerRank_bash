@@ -1,2 +1,1 @@
-array=`cat $1`
-echo "$array" | tail -c 20
+cat $1 | tail -c 20
