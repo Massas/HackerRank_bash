@@ -1,7 +1,4 @@
-for i in {1..100}}; do
-    # if stdin has something, assign to a variable by read command
-    if [ -p /dev/stdin ]; then
-        read x
-        echo $x | cut -f -3
-    fi
+IFS=""
+while read line; do
+  echo -e "$line" | cut -f -3
 done

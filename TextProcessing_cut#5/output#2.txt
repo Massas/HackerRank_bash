@@ -1,0 +1,10 @@
+1	Rajendra Prasad	3 December 1884
+2	Sarvepalli Radhakrishnan	5 September 1888
+3	Zakir Hussain	8 February 1897
+4	V.V. Giri	10 August 1894
+5	Fakhruddin Ahmed	13 May 1905
+6	Neelam Reddy	19 May 1913
+7	Zail Singh	5 May 1916
+8	Ramaswamy Venkataraman	4 December 1910
+9	Shankar Dayal Sharma	19 August 1918
+10	K.R. Narayanan	27 October 1920
