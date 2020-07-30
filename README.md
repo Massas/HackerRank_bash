@@ -32,3 +32,18 @@ List below is problems I solved and committed in this repository.
 
 　　標準入力から受け取った文字列の先頭20文字を表示するもの
 
+5. [LoopingAndSkipping](https://github.com/Massas/HackerRank_bash/tree/master/LoopingAndSkipping)：read 100 number of decimals from the standard input, and display only odd numbers.
+
+　　標準入力から受け取った数字を、奇数だけ表示するもの
+
+6. [LoopingWithNumbers](https://github.com/Massas/HackerRank_bash/tree/master/LoopingWithNumbers)：read 50 number of decimals from the standard input, and display all.
+
+　　標準入力から受け取った数字をすべて表示するもの
+
+7. [MiddleOfATextFile](https://github.com/Massas/HackerRank_bash/tree/master/MiddleOfATextFile)：read a file, and display the middle of the file.
+
+　　ファイルを読み込み、中央部分の内容を表示するもの
+
+8. [MoreOnConditionals](https://github.com/Massas/HackerRank_bash/tree/master/MoreOnConditionals)：read three values from the standard input, and compare with the three variations.
+
+　　標準入力から受け取った３つの値を使用して、条件判定を行うもの
