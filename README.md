@@ -43,3 +43,7 @@ List below is problems I solved and committed in this repository.
 7. [MiddleOfATextFile](https://github.com/Massas/HackerRank_bash/tree/master/MiddleOfATextFile)：read a file, and display the middle of the file.
 
 　　ファイルを読み込み、中央部分の内容を表示するもの
+
+8. [MoreOnConditionals](https://github.com/Massas/HackerRank_bash/tree/master/MoreOnConditionals)：read three values from the standard input, and compare with the three variations.
+
+　　標準入力から受け取った３つの値を使用して、条件判定を行うもの
