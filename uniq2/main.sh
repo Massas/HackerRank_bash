@@ -1,0 +1,1 @@
+uniq -c </dev/stdin | sed 's/^ *\| *$//'
