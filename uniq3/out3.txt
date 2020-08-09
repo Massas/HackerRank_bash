@@ -1,0 +1,10 @@
+2 new delhi
+3 Mumbai
+2 A00
+2 01
+2 00
+2 02
+1 A00
+1 03
+3 aa
+2 xyz
