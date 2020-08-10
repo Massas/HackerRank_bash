@@ -1,0 +1,1 @@
+cat - | grep -vi that
